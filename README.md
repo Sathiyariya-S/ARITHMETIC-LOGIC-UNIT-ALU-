@@ -94,3 +94,4 @@ This ALU can be expanded to include:
 This project was designed and simulated as part of a learning initiative to understand digital logic fundamentals. It serves as a base for students and hobbyists working on digital system design and HDL-based simulations.
 
 ## Output
+![Image](https://github.com/user-attachments/assets/baf6e96f-462f-41ce-81fe-24634cf6e37a)
